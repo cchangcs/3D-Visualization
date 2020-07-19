@@ -1,0 +1,12 @@
+LIBRARY osgCore.dll
+EXPORTS  
+osgRun
+osgRunLine
+osgClose
+gotohome
+osgRotate
+osgRotate2
+osgStart
+osgPause
+osgReset
+viewPointflyTo
