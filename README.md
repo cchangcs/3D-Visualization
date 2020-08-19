@@ -8,3 +8,8 @@
 
 ## 最终效果
 ![add image](https://github.com/cchangcs/3D-Visualization/blob/master/show.png)
+
+矿区应急仿真平台
+**矿区场景建模、数据层级添加移除、地名标注、三维模型添加、模型移动、模型动画、模型点击事件等**
+
+
